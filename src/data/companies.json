@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": 1,
+    "name": "Microsoft",
+    "minCGPA": 7.5,
+    "sector": "Technology",
+    "ctc": "₹16-44 LPA",
+    "description": "Microsoft is a multinational technology company that develops, manufactures, licenses, and sells computer software, consumer electronics, and personal computers."
+  },
+  {
+    "id": 2,
+    "name": "Google",
+    "minCGPA": 8.0,
+    "sector": "Technology",
+    "ctc": "₹20-40 LPA",
+    "description": "Google is a multinational technology company that specializes in Internet-related services and products."
+  },
+  {
+    "id": 3,
+    "name": "Amazon",
+    "minCGPA": 7.0,
+    "sector": "E-commerce",
+    "ctc": "₹12-30 LPA",
+    "description": "Amazon is an American multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+  },
+  {
+    "id": 4,
+    "name": "TCS",
+    "minCGPA": 6.5,
+    "sector": "IT Services",
+    "ctc": "₹3.5-7 LPA",
+    "description": "Tata Consultancy Services is an Indian multinational information technology services and consulting company."
+  },
+  {
+    "id": 5,
+    "name": "Infosys",
+    "minCGPA": 6.0,
+    "sector": "IT Services",
+    "ctc": "₹3.6-8 LPA",
+    "description": "Infosys is an Indian multinational information technology company that provides business consulting, information technology and outsourcing services."
+  },
+  {
+    "id": 6,
+    "name": "Wipro",
+    "minCGPA": 6.0,
+    "sector": "IT Services",
+    "ctc": "₹3.5-8 LPA",
+    "description": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services."
+  },
+  {
+    "id": 7,
+    "name": "Accenture",
+    "minCGPA": 6.5,
+    "sector": "Consulting",
+    "ctc": "₹4.5-10 LPA",
+    "description": "Accenture plc is an Irish-American professional services company that specializes in information technology services and consulting."
+  },
+  {
+    "id": 8,
+    "name": "Deloitte",
+    "minCGPA": 7.0,
+    "sector": "Consulting",
+    "ctc": "₹6-12 LPA",
+    "description": "Deloitte is a multinational professional services network that provides audit, consulting, financial advisory, risk advisory, tax, and legal services."
+  },
+  {
+    "id": 9,
+    "name": "IBM",
+    "minCGPA": 6.5,
+    "sector": "Technology",
+    "ctc": "₹4.5-15 LPA",
+    "description": "IBM is an American multinational technology company that produces and sells computer hardware, middleware and software."
+  },
+  {
+    "id": 10,
+    "name": "Cognizant",
+    "minCGPA": 6.0,
+    "sector": "IT Services",
+    "ctc": "₹4-9 LPA",
+    "description": "Cognizant is an American multinational corporation that provides IT services, including digital, technology, consulting, and operations services."
+  },
+  {
+    "id": 11,
+    "name": "HCL Technologies",
+    "minCGPA": 6.0,
+    "sector": "IT Services",
+    "ctc": "₹3.5-8 LPA",
+    "description": "HCL Technologies is an Indian multinational information technology services and consulting company."
+  },
+  {
+    "id": 12,
+    "name": "Oracle",
+    "minCGPA": 7.5,
+    "sector": "Technology",
+    "ctc": "₹8-18 LPA",
+    "description": "Oracle Corporation is an American multinational computer technology corporation that sells database software and technology, cloud engineered systems, and enterprise software products."
+  },
+  {
+    "id": 13,
+    "name": "Capgemini",
+    "minCGPA": 6.0,
+    "sector": "IT Services",
+    "ctc": "₹3.8-8 LPA",
+    "description": "Capgemini SE is a French multinational information technology services and consulting company."
+  },
+  {
+    "id": 14,
+    "name": "Intel",
+    "minCGPA": 7.5,
+    "sector": "Technology",
+    "ctc": "₹10-25 LPA",
+    "description": "Intel Corporation is an American multinational corporation and technology company that designs and manufactures computer processors and related computing technologies."
+  },
+  {
+    "id": 15,
+    "name": "Samsung",
+    "minCGPA": 7.0,
+    "sector": "Technology",
+    "ctc": "₹8-18 LPA",
+    "description": "Samsung is a South Korean multinational conglomerate that includes businesses specialized in electronics, IT, mobile phones, and consumer electronics."
+  }
+]

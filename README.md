@@ -1,42 +1,72 @@
-# 🎓 VIT CGPA Toolkit
+# 📘 VIT CGPA Toolkit
 
-Welcome to **VIT CGPA Toolkit** — your all-in-one academic companion built *by VITians, for VITians*!  
-This platform is designed to make your college journey smoother with smart features like:
-
-- ✅ **CGPA Calculator**
-- 📈 **Grade Improvement Tips**
-- 💼 **Previous Companies & Placement Insights**
-- 🤖 **AI-powered CGPA Chatbot**
+A wholesome and helpful web platform for VIT students to simplify CGPA calculations, track grade improvements, get insights from past placement data, and use an AI chatbot for academic queries — all in one place!
 
 ---
 
 ## 🚀 Features
 
-### 📊 CGPA Calculator
-Calculate your current CGPA and plan your target scores semester-wise with precision.
-
-### 📚 Grade Improvement Advisor
-Get smart suggestions on how to uplift your CGPA and prioritize subjects that matter.
-
-### 🏢 Placement Insights
-Explore company-specific data, past patterns, and requirements to help you prepare for placements.
-
-### 💬 AI Chatbot
-An AI-powered assistant that answers all your queries about CGPA, study strategies, placement prep, and more — in a short and concise format.
+- 🎓 **CGPA Calculator** – Quickly and accurately calculate your cumulative GPA.
+- 📈 **Grade Improvement Tracker** – Get smart suggestions to boost your academic score.
+- 🏢 **Previous Companies Data** – Explore historic placement records to plan better.
+- 🤖 **AI Chatbot Assistant** – Ask anything CGPA-related and get instant help!
 
 ---
 
-## ⚙️ Tech Stack
+## 🔧 Tech Stack
 
-- **Frontend:** React + Vite + Tailwind CSS  
-- **Animations & UI:** Framer Motion, Shadcn UI  
-- **AI Integration:** Google Gemini API (Flash Model)  
-- **Backend / Storage (Planned):** Golang + Firebase  
+- **Frontend**: React + TypeScript + Tailwind CSS
+- **Backend**: Golang
+- **AI**: Gemini (Free Tier)
+- **Storage**: Firebase Storage
+- **Deployment**: Vercel
 
 ---
 
-## 🛠️ Getting Started
+## 1️⃣ Clone the Repo
+```bash
+git clone https://github.com/yourusername/vit-cgpa-toolkit.git
+cd vit-cgpa-toolkit
+```
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/vit-cgpa-toolkit.git
+---
+
+## 2️⃣ Install Dependencies
+```bash
+npm install
+```
+
+---
+
+## 3️⃣ Add Environment Variables
+Create a `.env` file in the root and add:
+```bash
+VITE_GEMINI_API_KEY=your_gemini_api_key
+```
+
+---
+
+## 4️⃣ Run the App
+```bash
+npm run dev
+```
+Visit [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## 📢 Disclaimer
+This website is developed for educational purposes and is **in no way affiliated with or endorsed by VIT University**.
+
+---
+
+## 👥 Contributors
+- Abhishek: [2516abhi43@gmail.com](mailto:2516abhi43@gmail.com)
+- Utkarsh: [utkarsh.cloudops@gmail.com](mailto:utkarsh.cloudops@gmail.com)
+
+---
+
+## 💬 Want to Contribute?
+Pull requests are welcome! If you have suggestions or find issues, feel free to open an issue or fork the repo and submit a PR.
+
+Let's build this for our fellow VITians! 💙
+
